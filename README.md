@@ -5,4 +5,4 @@ It is built to train for classification tasks, regression tasks, 'exclusive or' 
 
 Click [here](https://github.com/aprilmarikosalazar/ISDinPy/blob/main/Report.pdf) to see my brief report on the models, their settings and performance, and some sample runs.
 
-Acknowledgements: Many thanks to [Eric Reed](https://github.com/csericreed) for this challenge and his the support.
+* Acknowledgements: Many thanks to [Eric Reed](https://github.com/csericreed) for this challenge and the heaps of support.
